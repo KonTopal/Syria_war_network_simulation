@@ -69,3 +69,13 @@ To run the notebook, install:
 
 ```bash
 pip install numpy pandas networkx geopandas matplotlib seaborn shapely scipy
+```
+---
+
+## Authors
+
+Riccardo Marchese
+GitHub: [@RiccardoMar](https://github.com/RiccardoMar)
+
+Konstantinos Topaloglou
+GitHub: [@KonTopal](https://github.com/KonTopal)
