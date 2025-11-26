@@ -54,7 +54,7 @@ All data are stored or loaded from the `data/` directory:
 
 ---
 
-## 🪖 Expected Outcomes
+## Expected Outcomes
 
 - Reconstruction of the **territorial collapse** of the Assad regime in late 2024  
 - Quantitative assessment of which factors most influenced the outcome  
@@ -63,7 +63,7 @@ All data are stored or loaded from the `data/` directory:
 
 ---
 
-## 🧰 Dependencies
+## Dependencies
 
 To run the notebook, install:
 
